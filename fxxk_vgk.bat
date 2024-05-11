@@ -29,4 +29,4 @@ if exist "!sysFile!" (
 
 endlocal
 ECHO Press any key to exit...
-PAUSE
+PAUSE>NUL
